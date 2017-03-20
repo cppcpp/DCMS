@@ -1,0 +1,1 @@
+mysqldump -u root -pmysql dcms >d:/dcms.sql
